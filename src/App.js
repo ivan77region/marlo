@@ -12,6 +12,8 @@ function App() {
       
       <h2>jkdshkgfjdhskjfhsk</h2>
       
+      <p>HELLO ITS react</p>
+      
     </div>
   );
 }
